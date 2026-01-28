@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonte\\source\\repos\\GameRating_Api_App\\GameRating_Api_App\\GameRating_Api_App.csproj",
+      "projectUniqueName": "C:\\Users\\jonte\\source\\repos\\GameRating_Api_App\\GameRating_Api_App\\GameRating_Api_App\\GameRating_Api_App.csproj",
       "projectName": "GameRating_Api_App",
-      "projectPath": "C:\\Users\\jonte\\source\\repos\\GameRating_Api_App\\GameRating_Api_App\\GameRating_Api_App.csproj",
+      "projectPath": "C:\\Users\\jonte\\source\\repos\\GameRating_Api_App\\GameRating_Api_App\\GameRating_Api_App\\GameRating_Api_App.csproj",
       "packagesPath": "C:\\Users\\jonte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonte\\source\\repos\\GameRating_Api_App\\GameRating_Api_App\\obj\\",
+      "outputPath": "C:\\Users\\jonte\\source\\repos\\GameRating_Api_App\\GameRating_Api_App\\GameRating_Api_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
